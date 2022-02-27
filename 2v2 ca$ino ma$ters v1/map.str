@@ -1,0 +1,23 @@
+
+SCRIPT:CasinoTopRight
+"Top Right: " 
+END
+SCRIPT:CasinoBottomRight
+"Bottom Right: " 
+END
+SCRIPT:CasinoBottomLeft
+"Bottom Left: " 
+END
+SCRIPT:CasinoTopLeft
+"Top Left: " 
+END
+
+
+
+CONTROLBAR:CasinoLabel
+"Casino"
+end
+CONTROLBAR:CasinoInfo
+"Summon random reinforcements"
+end
+
